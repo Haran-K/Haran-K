@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-haran-k.vercel.app/](https://react-haran-k.vercel.app/)
 
-- 💬 Ask me about **Python, Web Development, automating web testing, handling and analyzing data, and managing databases.**
+- 💬 Ask me about **Python, Web Development, automating web testing, handling and analyzing data, and managing databases**
 
 - 📫 How to reach me **hariharan.k.2020.cse@ritchennai.edu.in**
 
