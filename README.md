@@ -7,7 +7,7 @@
 
 - 🔭 I'm current doing my [bachelors in Rajalakshmi institute of technology](https://www.ritchennai.org)
 
-- 🌱 I’m currently learning **Selenium, AI**
+- 🌱 I’m currently learning **Selenium, Pandas ,PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://react-haran-k.vercel.app/](https://react-haran-k.vercel.app/)
 
-- 💬 Ask me about **Python, Web Development, UI/UX Designing, Figma**
+- 💬 Ask me about **Python, Web Development, automating web testing, handling and analyzing data, and managing databases.**
 
 - 📫 How to reach me **hariharan.k.2020.cse@ritchennai.edu.in**
 
