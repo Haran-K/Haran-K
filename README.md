@@ -7,7 +7,9 @@
 
 - 🔭 I'm current doing my [bachelors in Rajalakshmi institute of technology](https://www.ritchennai.org)
 
-- 🌱 I’m currently learning **Selenium, Pandas ,PostgreSQL**
+- 🌱 I’ve good knowledge in  **Python, Pandas ,RestApi**
+  
+- 🌱 I'am currently learning **Python-Selenium**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
